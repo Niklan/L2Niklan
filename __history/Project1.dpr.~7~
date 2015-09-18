@@ -1,0 +1,17 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  Unit1 in 'Unit1.pas' {BOT},
+  Vcl.Themes,
+  Vcl.Styles;
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.Title := 'L2 Niklan';
+  Application.CreateForm(TBOT, BOT);
+  Application.Run;
+end.
