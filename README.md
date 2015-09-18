@@ -3,7 +3,7 @@ It's just another memory.
 
 This is first big programm writted by myself in ~2010-2012. This is last version of it.
 
-This is bot programm for MMORPG LineAge 2. He's working with memory of game process and read it. This bot can farm, use skills, macros, cooldowns, auto rebuff (also on freeshards with ALT+B buffer), auto CP/HP/MP (as 'cheat' for pvp) and so on. He's can moving for long distance, only on single spot.
+This is bot programm for MMORPG LineAge 2. He's working with memory of game process and read it. This bot can farm, use skills, macros, cooldowns, auto rebuff (also on freeshards with ALT+B buffer), auto CP/HP/MP (as 'cheat' for pvp) and so on. He's can't moving for long distance, only on single spot.
 
 This bit is undetectable (!) for most (~99.99%) of cheat guards. I think, the only problem is Frost from Innova Systems. Cuz it 'read' memory, and send kepyress, hes cannot be deteceted. I got 0 bans for using it every day :)
 
